@@ -1,4 +1,4 @@
-# Masked URL GUI Application
+How to setup "Pyphisher.exe"
 
 This project provides a simple graphical user interface (GUI) to select and manage masked URLs. Follow the steps below to get started.
 
