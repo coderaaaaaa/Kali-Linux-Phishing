@@ -12,4 +12,4 @@ This project provides a simple graphical user interface (GUI) to select and mana
 - Navigate to the extracted folder.
 - Open the terminal (or command prompt) and run the following command:
   ```bash
-  ./your-app-name
+  ./pyphisher.exe
